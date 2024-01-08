@@ -7,7 +7,7 @@ function ShopThreeCategory() {
 
         <div className="flex w-1/2 flex-col gap-2">
           <div className="bg-[url(./assets/sub-banner-2.jpg)] relative bg-cover w-full h-[35vh] rounded-md"></div>
-          <div className="bg-[url(./assets/sub-banner-2.jpg)] relative bg-cover w-full h-[35vh] rounded-md"></div>
+          <div className="bg-[url(./assets/sub-banner-3.jpg)] relative bg-cover w-full h-[35vh] rounded-md"></div>
         </div>
       </div>
     </>
