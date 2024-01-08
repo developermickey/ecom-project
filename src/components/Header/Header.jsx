@@ -14,7 +14,7 @@ function Header() {
             <a href="">Home</a>
           </li>
           <li>
-            <a href="">Blog</a>
+            <a href="">About Us</a>
           </li>
           <li>
             <a href="">Shop</a>
@@ -23,7 +23,10 @@ function Header() {
             <a href="">All Products</a>
           </li>
           <li>
-            <a href="">Contact</a>
+            <a href="">Blog</a>
+          </li>
+          <li>
+            <a href="">Contact Us</a>
           </li>
         </ul>
 
