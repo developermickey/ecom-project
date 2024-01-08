@@ -2,7 +2,7 @@ import "./ShopByCategory.css";
 function ShopByCategory() {
   return (
     <>
-      <div className="w-full h-screen mx-auto bg-white shopbycategory">
+      <div className="w-full h-[70vh] mx-auto shopbycategory">
         <h2 className="text-2xl font-semibold">Shop By Category</h2>
         <div className="py-10 flex items-center justify-between">
           <div className="products text-center">
