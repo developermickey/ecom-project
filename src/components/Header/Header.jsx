@@ -8,7 +8,7 @@ function Header() {
         </p>
       </div>
       <div className="mainheader w-full h-28 bg-white text-black flex items-center justify-between px-12">
-        <img className="w-40" src="./logo.jpg" alt="" />
+        <img className="w-40" src="./logo.jpg" alt="Logo" />
         <ul className="flex items-center justify-between gap-8">
           <li>
             <a href="">Home</a>

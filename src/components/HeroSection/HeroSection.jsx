@@ -8,7 +8,7 @@ function HeroSection() {
     <>
       <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
         <SwiperSlide>
-          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-white pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
@@ -25,7 +25,7 @@ function HeroSection() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-black pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
@@ -42,7 +42,7 @@ function HeroSection() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-white pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
@@ -59,7 +59,7 @@ function HeroSection() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/1.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-white pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
@@ -76,7 +76,7 @@ function HeroSection() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/2.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-black pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
@@ -93,7 +93,7 @@ function HeroSection() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-          <div className="bg-[url(./3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/3.jpg)] w-full h-screen bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-white pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
