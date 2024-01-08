@@ -7,26 +7,38 @@ function Header() {
           orders over $75.
         </p>
       </div>
-      <div className="mainheader w-full h-28 bg-white text-black flex items-center justify-between px-12">
+      <div className="mainheader w-full h-24 bg-white text-black flex items-center justify-between px-12">
         <img className="w-40" src="./logo.jpg" alt="Logo" />
         <ul className="flex items-center justify-between gap-8">
           <li>
-            <a href="">Home</a>
+            <a className="hover:text-amber-600" href="">
+              Home
+            </a>
           </li>
           <li>
-            <a href="">About Us</a>
+            <a className="hover:text-amber-600" href="">
+              About Us
+            </a>
           </li>
           <li>
-            <a href="">Shop</a>
+            <a className="hover:text-amber-600" href="">
+              Shop
+            </a>
           </li>
           <li>
-            <a href="">All Products</a>
+            <a className="hover:text-amber-600" href="">
+              All Products
+            </a>
           </li>
           <li>
-            <a href="">Blog</a>
+            <a className="hover:text-amber-600" href="">
+              Blog
+            </a>
           </li>
           <li>
-            <a href="">Contact Us</a>
+            <a className="hover:text-amber-600" href="">
+              Contact Us
+            </a>
           </li>
         </ul>
 
