@@ -7,7 +7,7 @@ function Header() {
           orders over $75.
         </p>
       </div>
-      <div className="mainheader w-full h-24 bg-white text-black flex items-center justify-between px-24 headers">
+      <div className="mainheader w-full h-24 bg-white text-black flex items-center justify-between lg:px-24 sm:px-10  headers">
         <img
           className="lg:w-32 sm:w-24 cursor-pointer"
           src="./logo.jpg"
