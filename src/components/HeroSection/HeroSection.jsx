@@ -8,7 +8,7 @@ function HeroSection() {
     <>
       <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
         <SwiperSlide>
-          <div className="bg-[url(./assets/1.jpg)] w-full h-screen sm:h-[50vh] bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
+          <div className="bg-[url(./assets/1.jpg)] w-full h-screen lg:h-screen sm:h-[50vh] bg-cover bg-no-repeat bg-center flex items-center justify-start text-left">
             <div className="pl-24">
               <p className="text-lg text-white pb-5">
                 CLEAN BEAUTY • CRUELTY FREE
