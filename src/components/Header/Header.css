@@ -4,12 +4,11 @@
         padding-top: 50px;
         padding-bottom: 50px;
     }
-    
+  
     }
     
      /* Tablet CSS */
      @media only screen and (min-width : 768px) and (max-width : 1024px) {
-      
      }
     
     
@@ -17,5 +16,18 @@
      /* Mobile CSS */
     
     @media only screen and (max-width : 768px) {
-    
+        .mylogo {
+            width: 50px;
+        }
+        ul.flex.items-center.justify-between.lg\:gap-8.sm\:gap-5.menu-desktop {
+            display: none;
+        }
+        .mainheader.w-full.h-24.bg-white.text-black.flex.items-center.justify-between.lg\:px-24.sm\:px-10.headers {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .topbar.w-full.h-10.sm\:h-12.bg-\[\#9ea18e\].text-center.flex.items-center.justify-center {
+            height: 35px;
+            font-size: 8px;
+        }
     }

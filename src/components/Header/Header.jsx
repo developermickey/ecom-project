@@ -9,11 +9,11 @@ function Header() {
       </div>
       <div className="mainheader w-full h-24 bg-white text-black flex items-center justify-between lg:px-24 sm:px-10  headers">
         <img
-          className="lg:w-32 sm:w-24 cursor-pointer"
+          className="w-32 cursor-pointer mylogo"
           src="./logo.jpg"
           alt="Logo"
         />
-        <ul className="flex items-center justify-between lg:gap-8 sm:gap-5">
+        <ul className="flex items-center justify-between lg:gap-8 sm:gap-5 menu-desktop">
           <li>
             <a className="lg:text-base hover:text-amber-600 sm:text-sm" href="">
               Home
