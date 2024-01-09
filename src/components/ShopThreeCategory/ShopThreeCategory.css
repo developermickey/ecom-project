@@ -1,3 +1,19 @@
 .shopthreecategory {
     max-width: 1240px;
+    
 }
+
+
+
+ /* Tablet CSS */
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+  
+    }
+
+
+
+    /* Mobile CSS */
+
+@media only screen and (max-width : 768px) {
+
+  }
