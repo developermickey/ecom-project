@@ -31,7 +31,7 @@ function Header() {
             </a>
           </li>
           <li>
-            <a className="hover:text-amber-600sm:text-sm" href="">
+            <a className="hover:text-amber-600 sm:text-sm" href="">
               Blog
             </a>
           </li>
